@@ -2,6 +2,11 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
+/* change the background color */
+.navbar-custom {
+    background-color:rgba(255, 196, 0, 0.308);
+}
+
 .jumbotron{
     display: flex;
     align-items: center;
