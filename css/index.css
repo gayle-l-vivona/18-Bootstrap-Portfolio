@@ -1,5 +1,7 @@
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
 }
 
 /* change the background color */
@@ -8,6 +10,18 @@ h1 {
 }
 
 .jumbotron{
-    display: flex;
+    /* display: flex; */
     align-items: center;
+}
+
+.container-jumbotron {
+    text-align: center;
+}
+
+.container {
+    margin: 0px !important;
+}
+
+.row {
+    display: none;
 }
